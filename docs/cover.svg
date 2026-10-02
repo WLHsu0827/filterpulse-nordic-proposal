@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">FilterPulse: understand the pressure</title>
+  <desc id="desc">Original conceptual illustration of a filter, two pressure taps, a fan and a condition-corrected maintenance trend. Simulation only, hardware not obtained.</desc>
+  <rect width="1200" height="630" fill="#123c35"/>
+  <circle cx="1050" cy="110" r="260" fill="#1a493e"/>
+  <circle cx="160" cy="630" r="180" fill="#1a493e"/>
+  <text x="65" y="80" fill="#b7d8b7" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="4">FILTER MAINTENANCE / EDGE INTELLIGENCE</text>
+  <text x="60" y="175" fill="#f4f7eb" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="83">FilterPulse</text>
+  <text x="65" y="225" fill="#b7d8b7" font-family="Segoe UI,Arial,sans-serif" font-size="26">Understand the pressure. Not just the threshold.</text>
+  <g stroke="#bad7b5" stroke-width="4" fill="none">
+    <path d="M80 350 H340 M80 480 H340 M405 350 H650 M405 480 H650"/>
+    <rect x="340" y="323" width="65" height="185" rx="8" fill="#387554"/>
+    <path d="M355 340 V490 M372 340 V490 M389 340 V490" stroke="#8caf76"/>
+    <path d="M290 360 V292 H460 V360" stroke="#dfb86c"/>
+    <circle cx="375" cy="292" r="11" fill="#dfb86c" stroke="none"/>
+    <circle cx="590" cy="415" r="51"/>
+    <path d="M590 415 Q560 363 605 373 Q642 387 590 415 Q643 391 632 438 Q617 468 590 415 Q619 468 572 456 Q544 440 590 415 Q535 439 549 397 Q563 365 590 415" fill="#7eac7e" stroke="none"/>
+    <path d="M115 389 H240 M115 443 H240 M223 378 L240 389 L223 400 M223 432 L240 443 L223 454" stroke="#7eac7e"/>
+  </g>
+  <text x="305" y="548" fill="#b7d8b7" font-family="Segoe UI,Arial,sans-serif" font-size="18">Pressure + RPM</text>
+  <g transform="translate(745 305)">
+    <rect width="385" height="205" rx="18" fill="#f4f7eb"/>
+    <path d="M30 150 H355 M30 35 V150" fill="none" stroke="#c4d7c4" stroke-width="2"/>
+    <path d="M35 130 L85 125 L135 135 L185 129 L235 130 L285 128 L340 132" fill="none" stroke="#6695b9" stroke-width="4"/>
+    <path d="M35 133 L85 127 L135 130 L185 111 L235 90 L285 67 L340 43" fill="none" stroke="#b07a28" stroke-width="5"/>
+    <text x="30" y="183" fill="#36584a" font-family="Segoe UI,Arial,sans-serif" font-size="15">CLEAN REFERENCE / DEVIATION TREND</text>
+  </g>
+  <text x="66" y="592" fill="#dfb86c" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="2">SIMULATION-ONLY PROTOTYPE / NOT MEASURED HARDWARE PERFORMANCE</text>
+</svg>
